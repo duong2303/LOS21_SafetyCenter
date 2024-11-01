@@ -38,7 +38,7 @@
                 searchTerms="@com.android.safetycenter.resources:string/biometrics_search_terms"
                 initialDisplayState="hidden"/>
         </safety-sources-group>
-        <safety-sources-group
+        <!-- <safety-sources-group
             id="AndroidPrivacySources"
             title="@com.android.safetycenter.resources:string/privacy_sources_title"
             summary="@com.android.safetycenter.resources:string/privacy_sources_summary"
@@ -104,7 +104,7 @@
                 profile="all_profiles"
                 notificationsAllowed="true"
                 refreshOnPageOpenAllowed="true"/>
-        </safety-sources-group>
+        </safety-sources-group> -->
         <safety-sources-group
             id="AndroidAdvancedSources"
             title="@com.android.safetycenter.resources:string/advanced_title">
